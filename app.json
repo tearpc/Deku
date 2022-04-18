@@ -1,0 +1,28 @@
+{
+"name": "Deku",
+  "description": "Easy WhatsApp Bot",
+  "repository": "https://github.com/nexusNw/Deku",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"],
+
+    "buildpacks": [
+
+        {
+
+            "url": "heroku/nodejs"
+
+        },
+
+        {
+
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+
+        },
+
+        {
+
+            "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+
+        }
+
+    ]
+}
