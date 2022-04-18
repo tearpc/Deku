@@ -2,6 +2,7 @@
 "name": "Deku",
   "description": "Easy WhatsApp Bot",
   "repository": "https://github.com/nexusNw/Deku",
+  "logo": "https://i.imgur.com/6CM1QyA.jpeg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
 
     "buildpacks": [
